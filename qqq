@@ -1,0 +1,5 @@
+
+num = 25
+sqrt_num = Math.sqrt(num)
+puts "Квадратный корень числа #{num} равен #{sqrt_num}"
+
